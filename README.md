@@ -16,7 +16,7 @@ app.use(/* some function to execute here */);
 
 ## Req Body
 
-Sometimes we need to send some complex data to our API. Using the `req.query` or `req.params` just might not be suffuciant enough to use to send this data. This is where the `body` comes into play.
+Sometimes we need to send some complex data to our API. Using the `req.query` or `req.params` just might not be sufficient enough to use to send this data. This is where the `body` comes into play.
 
 `req.body` is the object we can use to receive the complex data. However, the data that comes from the body of the request is received as `JSON` so we need to parse it into a Javascript Object.
 
@@ -43,7 +43,7 @@ $ npm install cors
 Then require it at the top of the `index.js` file for our API.
 
 ```javascript
-const cors = require('cors`)
+const cors = require('cors')
 ```
 
 Then we need this function to be invoked as top level middleware.
@@ -79,10 +79,10 @@ DELETE:
 app.delete('path for the endpoint', handlerFunc)
 ```
 
-We now have a "fully funcitonal" API because are following the full CRUD pattern.
+We now have a "fully functional" API because we are following the full CRUD pattern.
 
 ## Controller
 
 A `controller` is what we can use to store all of our functions that we use to handle the requests being made.
 
-We usually will create a seperate javascript file that will hold the controller functions.
+We usually will create a separate javascript file that will hold the controller functions.
