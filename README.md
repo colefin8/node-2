@@ -4,6 +4,10 @@ In this lecture we talk about Top Level Middleware, Using Postman, and using Axi
 
 Examples can be found inside the `.js` files of this repo.
 
+## Lecture Slides
+
+https://slides.com/mattbodily/node-twonode-two
+
 ## Top Level Middleware
 
 `Top Level Middleware` is the term we use to refer to some logic that will be executed upon every request that is made to our API.
