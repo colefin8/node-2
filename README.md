@@ -6,7 +6,7 @@ Examples can be found inside the `.js` files of this repo.
 
 ## Lecture Slides
 
-https://slides.com/mattbodily/node-twonode-two
+https://slides.com/matias_perez/node-two#/
 
 ## Top Level Middleware
 
