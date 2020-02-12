@@ -113,3 +113,12 @@ We now have a "fully functional" API because we are following the full CRUD patt
 A `controller` is what we can use to store all of our functions that we use to handle the requests being made.
 
 We usually will create a separate javascript file that will hold the controller functions.
+
+# Node 2 Mini Project
+
+https://github.com/DevMountain/node-2-mini
+
+# Node 2 Afternoon Project
+
+https://github.com/DevMountain/node-2-afternoon
+
