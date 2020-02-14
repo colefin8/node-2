@@ -114,6 +114,30 @@ A `controller` is what we can use to store all of our functions that we use to h
 
 We usually will create a separate javascript file that will hold the controller functions.
 
+# Node 2 Additional Resources
+
+## Node and Express
+
+* https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction — This is a great overview of Node and Express from MDN. 
+
+* https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1 — In-depth reading about Node and Express.
+
+* https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/ — How Express works behind the scenes
+
+## Middleware
+
+* https://developer.mozilla.org/en-US/docs/Glossary/Middleware — Concise definition of middleware.
+
+* http://www.webdevelopmenthelp.net/2017/02/express-middleware-tutorial.html — An in-depth overview of middleware.
+
+* https://discuss.codecademy.com/t/how-does-app-use-work/384243 — How does app.use() work?
+
+* https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded — What does express.json() do? (Read second answer.)
+
+## Postman
+
+* https://www.digitalcrafts.com/blog/student-blog-what-postman-and-why-use-it — What is Postman and why use it?
+
 # Node 2 Mini Project
 
 https://github.com/DevMountain/node-2-mini
@@ -121,49 +145,3 @@ https://github.com/DevMountain/node-2-mini
 # Node 2 Afternoon Project
 
 https://github.com/DevMountain/node-2-afternoon
-
-
-
-
-
-# Additional Resources
-
-## Node and Express
-
-This is a great overview of Node and Express from MDN. 
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
-
-In-depth reading about Node and Express.
-
-https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1
-
-How Express works behind the scenes
-
-https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/
-
-
-## Middleware
-
-Concise definition of middleware.
-
-https://developer.mozilla.org/en-US/docs/Glossary/Middleware
-
-An in-depth overview of middleware.
-
-http://www.webdevelopmenthelp.net/2017/02/express-middleware-tutorial.html
-
-How does app.use() work?
-
-https://discuss.codecademy.com/t/how-does-app-use-work/384243
-
-What does express.json() do? (Read second answer.)
-
-https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded
-
-
-## Postman
-
-What is Postman and why use it?
-
-https://www.digitalcrafts.com/blog/student-blog-what-postman-and-why-use-it
