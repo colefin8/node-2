@@ -122,3 +122,48 @@ https://github.com/DevMountain/node-2-mini
 
 https://github.com/DevMountain/node-2-afternoon
 
+
+
+
+
+# Additional Resources
+
+## Node and Express
+
+This is a great overview of Node and Express from MDN. 
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
+
+In-depth reading about Node and Express.
+
+https://medium.com/@LindaVivah/the-beginners-guide-understanding-node-js-express-js-fundamentals-e15493462be1
+
+How Express works behind the scenes
+
+https://www.sohamkamani.com/blog/2018/05/30/understanding-how-expressjs-works/
+
+
+## Middleware
+
+Concise definition of middleware.
+
+https://developer.mozilla.org/en-US/docs/Glossary/Middleware
+
+An in-depth overview of middleware.
+
+http://www.webdevelopmenthelp.net/2017/02/express-middleware-tutorial.html
+
+How does app.use() work?
+
+https://discuss.codecademy.com/t/how-does-app-use-work/384243
+
+What does express.json() do? (Read second answer.)
+
+https://stackoverflow.com/questions/23259168/what-are-express-json-and-express-urlencoded
+
+
+## Postman
+
+What is Postman and why use it?
+
+https://www.digitalcrafts.com/blog/student-blog-what-postman-and-why-use-it
