@@ -4,9 +4,7 @@ In this lecture we talk about Top Level Middleware, Using Postman, and using Axi
 
 Examples can be found inside the `.js` files of this repo.
 
-## Lecture Slides
-
-https://slides.com/matias_perez/node-two#/
+## Lecture Slides: https://slides.com/mattbodily/node-two
 
 # Student Learning Objectives
 
