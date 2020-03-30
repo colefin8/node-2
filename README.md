@@ -2,9 +2,12 @@
 
 In this lecture we talk about Top Level Middleware, Using Postman, and using Axios in our API.
 
-Examples can be found inside the `.js` files of this repo.
+Lecture Slides: https://slides.com/dmweb/node-2
 
-## Lecture Slides: https://slides.com/mattbodily/node-two
+Mini Project: https://github.com/DevMountain/node-2-mini
+
+Afternoon Project: https://github.com/DevMountain/node-2-afternoon
+
 
 # Student Learning Objectives
 
